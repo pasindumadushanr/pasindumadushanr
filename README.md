@@ -39,22 +39,6 @@
 </p>
 
 
-<h3 align="center">🌐 Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/pasindu4444" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pasindu4444" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/pasindu-madushan-b5b22a2aa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-madushan-b5b22a2aa" height="30" width="40" /></a>
-  <a href="https://instagram.com/rajapakshamadushan03" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajapakshamadushan03" height="30" width="40" /></a>
-</p>
-
-<h3 align="center">💻 Languages and Tools:</h3>
-<p align="center">
-  <!-- Each icon here -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <!-- Add more icons as per your skills -->
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasindumadushanr&show_icons=true&theme=light" alt="pasindumadushanr"/>
 </p>
@@ -67,7 +51,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+<h3 align="center">💻 Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

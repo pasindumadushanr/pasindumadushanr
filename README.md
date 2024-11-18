@@ -51,7 +51,7 @@
 <img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0fvhy-0nKmHYhnG6OALNOP&ust=1732025583896000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDJ28aI5okDFQAAAAAdAAAAABAE"  />
 
 ###
-<h3 align="center">💻 Languages and Tools:</h3>
+<h3 align="center">💻 Languages and Tools:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -93,7 +93,7 @@
 </div>
 
 ###
-<h3 align="center">🌐 Connect with me:</h3>
+<h3 align="center">🌐 Connect with me:</h2>
 <div align="left">
   <a href="https://www.youtube.com/@gamingpasiya912" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />

@@ -27,7 +27,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Pasindu Madushan</h1>
+/* <h1 align="center">Hi 👋, I'm Pasindu Madushan</h1>
 <p align="center">
   <a href="https://github.com/pasindumadushanr"><img src="https://komarev.com/ghpvc/?username=pasindumadushanr&label=Profile%20views&color=0e75b6&style=flat-square" alt="pasindumadushanr"/></a>
 </p>
@@ -63,7 +63,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pasindumadushanr&show_icons=true&theme=light" alt="pasindumadushanr"/>
 </p>
-
+*/
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindumadushanr&" alt="pasindumadushanr" />
 </p>
+
+
+
+
+
+

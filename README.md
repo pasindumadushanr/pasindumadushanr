@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pasindu;He/him;Software+Engineer;Tech+Enthusiast;High-performance+Gamer;Open+to+New+Opportunities" alt="Software Engineer, Tech Enthusiast, High-performance Gamer">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pasindu+Madushan;Software+Engineer;Open+to+New+Opportunities" alt="Software Engineer, Open to New Opportunities">
     </a>
 </div>
 
@@ -24,7 +24,6 @@
     <img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a>
  </td></tr>
 </table>
-
 
 
 

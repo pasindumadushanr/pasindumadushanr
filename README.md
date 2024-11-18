@@ -38,11 +38,6 @@
   <i>Let's talk about technology and innovation!</i> 🌱
 </p>
 
-<p align="center">
-  💼 Any freelance work? Do reach, <a href="mailto:pasindumadushnar01@gmail.com">email</a><br>
-  🔎 Ask me about anything; I'm happy to help<br>
-  ⚡ Fun fact: I think I am Innocent
-</p>
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
@@ -114,7 +109,7 @@
 </div>
 
 ###
-
+<h3 align="center">🌐 Connect with me:</h3>
 <div align="left">
   <a href="https://www.youtube.com/@gamingpasiya912" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />

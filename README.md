@@ -5,7 +5,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pasindu+Madushan;Software+Engineering+(UG);Software+Engineer;Open+to+New+Opportunities" alt="Software Engineering (UG), Software Engineer, Open to New Opportunities">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Pasindu+Madushan;Software+Engineering+(UG);Open+to+New+Opportunities" alt="Software Engineering (UG), Open to New Opportunities">
     </a>
 </div>
 

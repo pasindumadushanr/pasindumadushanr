@@ -43,7 +43,7 @@
 
 
 ###
-<h3 align="center">🌐 Connect with me:</h2>
+<h3 align="right">🌐 Connect with me:</h1>
 <div align="left">
   <a href="https://www.youtube.com/@gamingpasiya912" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />

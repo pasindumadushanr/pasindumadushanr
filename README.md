@@ -9,15 +9,6 @@
     </a>
 </div>
 
-<a href="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml">
-    <img src="https://github.com/Carol42/Carol42/actions/workflows/lastfm.yml/badge.svg" alt="lastfm-to-markdown workflow status">
-</a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml">
-    <img src="https://github.com/Carol42/Carol42/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status">
-</a>
-<a href="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml">
-    <img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status">
-</a>
 
 
 

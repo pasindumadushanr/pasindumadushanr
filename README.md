@@ -21,7 +21,7 @@
 
 <table align="right">
  <tr><td><a href="https://github.com/PasinduProfile/Pasindu/blob/main/README.md">
-    <img src="./assets/us_flag.png" alt="US flag" width="17px"> English</a>
+    
  </td></tr>
 </table>
 

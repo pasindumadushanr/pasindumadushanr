@@ -39,14 +39,10 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pasindumadushanr&show_icons=true&theme=light" alt="pasindumadushanr"/>
-</p>
-
-
-
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0fvhy-0nKmHYhnG6OALNOP&ust=1732025583896000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDJ28aI5okDFQAAAAAdAAAAABAE"  />
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pasindumadushanr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pasindumadushanr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasindumadushanr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ###
 <h3 align="center">💻 Languages and Tools:</h2>
 <div align="left">

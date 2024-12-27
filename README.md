@@ -21,7 +21,8 @@
   <i>Let's talk about technology and innovation!</i> 🌱
 </p>
 </h3>
-💻 Tech Stack:
+
+# 💻 Tech Stack:
 
 <div align="left">
   <a href="https://www.youtube.com/@gamingpasiya912" target="_blank">

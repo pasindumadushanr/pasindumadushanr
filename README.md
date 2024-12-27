@@ -43,11 +43,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pasindumadushanr&show_icons=true&theme=light" alt="pasindumadushanr"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pasindumadushanr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-###
 
 <img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0fvhy-0nKmHYhnG6OALNOP&ust=1732025583896000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDJ28aI5okDFQAAAAAdAAAAABAE"  />
 
@@ -118,6 +114,11 @@
 
 ###
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pasindumadushanr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+###
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindumadushanr&" alt="pasindumadushanr" />
 </p>

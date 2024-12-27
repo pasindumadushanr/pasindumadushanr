@@ -43,7 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pasindumadushanr&show_icons=true&theme=light" alt="pasindumadushanr"/>
 </p>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pasindumadushanr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ###

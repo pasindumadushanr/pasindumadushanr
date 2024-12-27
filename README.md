@@ -19,11 +19,6 @@
     <img src="https://github.com/Carol42/Carol42/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status">
 </a>
 
-<table align="right">
- <tr><td><a href="https://github.com/PasinduProfile/Pasindu/blob/main/README.md">
-    
- </td></tr>
-</table>
 
 
 

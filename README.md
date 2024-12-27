@@ -114,10 +114,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=pasindumadushanr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-###
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pasindumadushanr&" alt="pasindumadushanr" />
-</p>
 
 
 

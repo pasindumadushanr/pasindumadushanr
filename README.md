@@ -65,7 +65,7 @@
   </a>
 </div>
 
-<h3 align="left" style="font-size: 28px;">🌐 Connect with me:</h3>
+<h3 align="left" style="font-size: 38px;">🌐 Connect with me:</h3>
 <div align="left">
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube" />

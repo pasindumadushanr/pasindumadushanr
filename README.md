@@ -38,7 +38,9 @@
   <i>Let's talk about technology and innovation!</i> 🌱
 </p>
 
-<h1 align="center" style="font-size: 48px;">Hi 👋, I'm Pasindu Madushan</h1>
+<p align="center" style="font-size: 48px; font-weight: bold; margin: 20px 0;">
+  Hi 👋, I'm Pasindu Madushan
+</p>
 <p align="center">
   <a href="https://github.com/pasindumadushanr">
     <img src="https://komarev.com/ghpvc/?username=pasindumadushanr&label=Profile%20views&color=0e75b6&style=flat-square" alt="pasindumadushanr"/>

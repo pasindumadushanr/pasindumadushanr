@@ -10,9 +10,6 @@
 </div>
 
 
-
-
-
 <h1 align="center">Hi 👋, I'm Pasindu Madushan</h1>
 <p align="center">
   <a href="https://github.com/pasindumadushanr"><img src="https://komarev.com/ghpvc/?username=pasindumadushanr&label=Profile%20views&color=0e75b6&style=flat-square" alt="pasindumadushanr"/></a>
@@ -25,7 +22,6 @@
 </p>
 </h3>
 # 💻 Connect With Me :
-###
 <div align="left">
   <a href="https://www.youtube.com/@gamingpasiya912" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
